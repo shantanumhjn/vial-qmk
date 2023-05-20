@@ -21,3 +21,7 @@
 [submodule "lib/pico-sdk"]
 	path = lib/pico-sdk
 	url = https://github.com/qmk/pico-sdk.git
+[submodule "keyboards/ladispad"]
+	path = keyboards/ladispad
+	url = https://github.com/shantanumhjn/qmk_keyboards.git
+	branch = ladispad
