@@ -29,3 +29,7 @@
 	path = keyboards/ladispad
 	url = https://github.com/shantanumhjn/qmk_keyboards.git
 	branch = ladispad
+[submodule "keyboards/bm65rgb"]
+	path = keyboards/bm65rgb
+	url = https://github.com/shantanumhjn/qmk_keyboards.git
+	branch = bm65rgb
